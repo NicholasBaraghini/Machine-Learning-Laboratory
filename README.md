@@ -1,4 +1,4 @@
-# Machine-Learning-Laboratory
+# Machine Learning Laboratory
 Assignments of the Basics of Machine Learning course
 
 ## Lab Session 3
